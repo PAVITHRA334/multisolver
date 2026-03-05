@@ -1,0 +1,5 @@
+exclude:
+  - node_modules
+  - mern-backend
+  - mern-frontend  # (Add whatever your frontend folder is named)
+  - vendor
